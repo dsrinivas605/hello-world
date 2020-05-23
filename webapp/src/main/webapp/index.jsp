@@ -1,7 +1,7 @@
-<html>  
+ <html>  
  <head><title>Simple jsp page</title></head> 
 
-<h1> Hello, Welcome to Simple DevOps Projet !! Docker Run By D Srinivas <h1>
+<h1> Hello, Welcome to Simple DevOps Projet !! Docker Run  <h1>
 <h2> Deploying on a kubernetes using ansible </h2>
 <h2> Glad to see you here </h2>
  
